@@ -6,9 +6,6 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -57,8 +54,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/iphone-doc.git
-cd iphone-doc
+git clone https://github.com/Shiwangsh/iPhone-15-website
+cd iPhone-15-website
 ```
 
 **Installation**
@@ -68,9 +65,7 @@ Install the project dependencies using npm:
 ```bash
 npm install
 ```
-
 or
-
 ```bash
 yarn i
 ```
@@ -80,9 +75,7 @@ yarn i
 ```bash
 npm run dev
 ```
-
 or
-
 ```bash
 yarn dev
 ```
